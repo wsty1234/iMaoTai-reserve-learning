@@ -22,6 +22,8 @@ print(r'''
 **************************************
 ''')
 
+print("apreciate by tang and li")
+
 process.get_current_session_id()
 
 # 校验配置文件是否存在
